@@ -134,18 +134,6 @@ Currently a **Payment Specialist at Accenture**, writing SQL against large-scale
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodx21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodx21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
-
----
-
 ### ⚡ Fun Fact
 
 Former **professional basketball player** in Brazil 🏀 and elected **Student Union President** at Mackenzie University. I bring the same discipline and teamwork from the court to writing clean code.
