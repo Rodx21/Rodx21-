@@ -45,17 +45,17 @@ Currently a **Payment Specialist at Accenture**, writing SQL against large-scale
 </td>
 <td width="50%" valign="top">
 
-#### 🌿 [Green Trip BR](https://github.com/Rodx21/green-trip-br)
-**Full-Stack Ready SPA**
+#### ✂️ [Sharp Society](https://github.com/Rodx21/sharp-society-barber-booking)
+**Full-Stack Barber Booking System**
 
-*React 18 · TypeScript · Tailwind CSS · Vite*
+*React 19 · MUI v7 · Node.js · MySQL · JWT*
 
-- 20+ routes with React Router v6
-- Auth flows (login, register, password reset)
-- 3-step checkout pipeline with cart state
-- Framer Motion page transitions
+- Role-based auth (customer & admin) with JWT
+- Full booking flow: barber → service → date/time
+- RESTful API with Express and bcrypt password hashing
+- Framer Motion animations throughout the UI
 
-`Live Portfolio Project`
+`College Project — Dublin Business School`
 
 </td>
 </tr>
